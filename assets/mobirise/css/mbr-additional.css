@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1394,10 +1394,13 @@ body {
   border-top-color: #149dcc;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1152.jpg");
+  background-image: url("../../../assets/images/5cd0b2b71b79a.jpg");
 }
 .cid-qTkA127IK8 SPAN {
   color: #ffffff;
+}
+.cid-qTkA127IK8 H3 {
+  color: #7dea20;
 }
 .cid-rpA4JtfS50 {
   padding-top: 45px;
