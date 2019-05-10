@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -3325,10 +3326,18 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rq3HPt5rwq {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #91d741;
 }
 .cid-rq3HPt5rwq P {
   color: #767676;
+}
+.cid-rq3HPt5rwq .mbr-text,
+.cid-rq3HPt5rwq .mbr-section-btn {
+  color: #232323;
+  text-align: center;
+}
+.cid-rq3HPt5rwq H1 {
+  text-align: center;
 }
