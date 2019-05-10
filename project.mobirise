@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "careers.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1783,7 +1783,7 @@
     "careers.html": {
       "settings": {
         "meta_descr": "Careers",
-        "title": "Careees",
+        "title": "Careers",
         "order": 1
       },
       "components": [
