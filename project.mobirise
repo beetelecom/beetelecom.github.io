@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "careers.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
       "settings": {
         "meta_descr": "Broadband Speed Test",
         "title": "Speed Test",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -596,7 +596,7 @@
       "settings": {
         "meta_descr": "Contact Information",
         "title": "Contact",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1784,7 +1784,7 @@
       "settings": {
         "meta_descr": "Careers",
         "title": "Careers",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
