@@ -2250,7 +2250,7 @@
     "questions.html": {
       "settings": {
         "meta_descr": "Questions and answers",
-        "title": "Q&amp;A",
+        "title": "Q&amp;amp;A",
         "order": 1
       },
       "components": [
