@@ -664,7 +664,8 @@
               "color": "#149dcc"
             },
             "P": {
-              "color": "#149dcc"
+              "color": "#149dcc",
+              "text-align": "center"
             }
           },
           "_name": "footer5",
@@ -1296,7 +1297,8 @@
               "color": "#149dcc"
             },
             "P": {
-              "color": "#149dcc"
+              "color": "#149dcc",
+              "text-align": "center"
             }
           },
           "_name": "footer5",
@@ -1851,7 +1853,8 @@
               "color": "#149dcc"
             },
             "P": {
-              "color": "#149dcc"
+              "color": "#149dcc",
+              "text-align": "center"
             }
           },
           "_name": "footer5",
@@ -2540,7 +2543,8 @@
               "color": "#149dcc"
             },
             "P": {
-              "color": "#149dcc"
+              "color": "#149dcc",
+              "text-align": "center"
             }
           },
           "_name": "footer5",
@@ -3166,7 +3170,8 @@
               "color": "#149dcc"
             },
             "P": {
-              "color": "#149dcc"
+              "color": "#149dcc",
+              "text-align": "center"
             }
           },
           "_name": "footer5",
