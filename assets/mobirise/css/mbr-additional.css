@@ -1395,12 +1395,12 @@ body {
 }
 .cid-rpXJfWHPGm .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rpXJfWHPGm .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #465052;
 }
 .cid-rpXJfWHPGm a {
   font-style: normal;
@@ -1491,7 +1491,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpXJfWHPGm .dropdown .dropdown-menu {
-  background: #333333;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1639,6 +1639,11 @@ body {
 .cid-rpXJfWHPGm .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rpXJfWHPGm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rpXJfWHPGm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rpXJfWHPGm .collapsed button.navbar-toggler {
   display: block;
@@ -1889,12 +1894,12 @@ body {
 }
 .cid-rpXE05eH3N .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rpXE05eH3N .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #465052;
 }
 .cid-rpXE05eH3N a {
   font-style: normal;
@@ -1985,7 +1990,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpXE05eH3N .dropdown .dropdown-menu {
-  background: #333333;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2133,6 +2138,11 @@ body {
 .cid-rpXE05eH3N .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rpXE05eH3N .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rpXE05eH3N .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rpXE05eH3N .collapsed button.navbar-toggler {
   display: block;
@@ -2366,12 +2376,12 @@ body {
 }
 .cid-rpXE05eH3N .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rpXE05eH3N .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #465052;
 }
 .cid-rpXE05eH3N a {
   font-style: normal;
@@ -2462,7 +2472,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpXE05eH3N .dropdown .dropdown-menu {
-  background: #333333;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2610,6 +2620,11 @@ body {
 .cid-rpXE05eH3N .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rpXE05eH3N .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rpXE05eH3N .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rpXE05eH3N .collapsed button.navbar-toggler {
   display: block;
@@ -2785,12 +2800,12 @@ body {
 }
 .cid-rpXE05eH3N .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rpXE05eH3N .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #465052;
 }
 .cid-rpXE05eH3N a {
   font-style: normal;
@@ -2881,7 +2896,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpXE05eH3N .dropdown .dropdown-menu {
-  background: #333333;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3029,6 +3044,11 @@ body {
 .cid-rpXE05eH3N .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rpXE05eH3N .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rpXE05eH3N .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rpXE05eH3N .collapsed button.navbar-toggler {
   display: block;
@@ -3364,12 +3384,12 @@ body {
 }
 .cid-rpXE05eH3N .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rpXE05eH3N .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #465052;
 }
 .cid-rpXE05eH3N a {
   font-style: normal;
@@ -3460,7 +3480,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpXE05eH3N .dropdown .dropdown-menu {
-  background: #333333;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3608,6 +3628,11 @@ body {
 .cid-rpXE05eH3N .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rpXE05eH3N .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rpXE05eH3N .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rpXE05eH3N .collapsed button.navbar-toggler {
   display: block;
