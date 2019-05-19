@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "google-site-verification googleb4aebfdee06c643f.html.html",
+    "currentPage": "home.html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3043,11 +3043,11 @@
         }
       ]
     },
-    "google-site-verification googleb4aebfdee06c643f.html.html": {
+    "home.html.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "google-site-verification: googleb4aebfdee06c643f.html\nTelephone Engineer Manchester",
+        "meta_descr": "Telephone Engineer Manchester",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
