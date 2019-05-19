@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "google-site-verification googleb4aebfdee06c643f.html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3043,7 +3043,7 @@
         }
       ]
     },
-    "home.html": {
+    "google-site-verification googleb4aebfdee06c643f.html.html": {
       "settings": {
         "main": true,
         "title": "Home",
