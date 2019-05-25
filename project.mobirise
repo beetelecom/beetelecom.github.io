@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "contact.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/uihere-128x85.png",
@@ -3725,7 +3725,7 @@
           "_anchor": "footer5-f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "rrp998qSYr",
+          "_cid": "rrt1103omT",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
