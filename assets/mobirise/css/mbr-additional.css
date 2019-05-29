@@ -4606,6 +4606,73 @@ body {
     padding: 0 2rem 2rem 2rem !important;
   }
 }
+.cid-rrPCBezUXT {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rrPCBezUXT .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-rrPCBezUXT h4 {
+  font-weight: 500;
+}
+.cid-rrPCBezUXT p {
+  color: #232323;
+}
+.cid-rrPCBezUXT .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-rrPCBezUXT .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rrPCBezUXT .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rrPCBezUXT .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rrPCBezUXT .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rrPCBezUXT .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rrPCBezUXT .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rrPCBezUXT .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rrPCBezUXT .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rrPCBezUXT .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
 .cid-rrt1103omT {
   padding-top: 0px;
   padding-bottom: 0px;
